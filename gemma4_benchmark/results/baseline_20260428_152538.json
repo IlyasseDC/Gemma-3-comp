@@ -1,0 +1,32 @@
+{
+  "run_id": "20260428_152538",
+  "model_id": "google/gemma-4-E4B",
+  "dtype": "bfloat16",
+  "n_params_B": 7.941,
+  "dataset": "yerevann/coco-karpathy",
+  "n_samples": 100,
+  "prompt": "Describe this image in one sentence.",
+  "quality": {
+    "bleu4": 0.0305,
+    "rougeL": 0.1683,
+    "meteor": 0.1932,
+    "description": "bleu4: corpus BLEU-4 | rougeL: longest common subsequence F1 | meteor: unigram F1 with stemming and synonym matching"
+  },
+  "speed": {
+    "total_time_s": 653.3,
+    "throughput_samples_per_s": 0.153,
+    "mean_latency_ms": 6532.8,
+    "std_latency_ms": 4731.0
+  },
+  "energy": {
+    "energy_kwh": 0.020846,
+    "co2_kg": 0.008964,
+    "note": "Measured by CodeCarbon over the full inference loop"
+  },
+  "hardware": {
+    "device": "cuda",
+    "gpu_name": "NVIDIA L4",
+    "peak_vram_mib": 15674.7,
+    "total_vram_mib": 22565.1
+  }
+}

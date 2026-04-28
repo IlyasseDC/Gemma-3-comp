@@ -1,0 +1,21 @@
+# Core ML
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.47.0
+accelerate>=0.26.0
+
+# Dataset & image
+datasets>=2.16.0
+Pillow>=10.0.0
+
+# Metrics
+evaluate>=0.4.0
+rouge_score>=0.1.2
+nltk>=3.8.0
+
+# Energy tracking
+codecarbon>=2.3.0
+
+# Utilities
+tqdm>=4.66.0
+numpy>=1.24.0

@@ -1,0 +1,286 @@
+{
+  "model_id": "google/gemma-4-E4B",
+  "prompt": "Describe this image in one sentence.",
+  "samples": [
+    {
+      "sample_idx": 0,
+      "coco_id": 391895,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000391895.jpg",
+      "img_file": "sample_000_coco391895.jpg",
+      "generated": "This image is about a man riding a motorcycle on a road.\nKeywords:\nRoad, motorcycle, man, riding, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road, road,",
+      "refs": [
+        "A man with a red helmet on a small moped on a dirt road. ",
+        "Man riding a motor bike on a dirt road on the countryside.",
+        "A man riding on the back of a motorcycle.",
+        "A dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains. ",
+        "A man in a red shirt and a red hat is on a motorcycle on a hill side."
+      ]
+    },
+    {
+      "sample_idx": 1,
+      "coco_id": 60623,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000060623.jpg",
+      "img_file": "sample_001_coco60623.jpg",
+      "generated": "The girl is eating a bowl of soup.",
+      "refs": [
+        "A young girl inhales with the intent of blowing out a candle. ",
+        "A young girl is preparing to blow out her candle.",
+        "A kid is to blow out the single candle in a bowl of birthday goodness. ",
+        "Girl blowing out the candle on an ice-cream ",
+        "A little girl is getting ready to blow out a candle on a small dessert."
+      ]
+    },
+    {
+      "sample_idx": 2,
+      "coco_id": 483108,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000483108.jpg",
+      "img_file": "sample_002_coco483108.jpg",
+      "generated": "A man riding a bicycle on a road next to a train track.\nWhere did you capture this photo?\nJapan\nWhat was the inspiration for this photo?\nI was inspired by the man riding the bicycle.\nWhat was the most challenging part of this photo?\nThe most challenging part of this photo was getting the right angle and composition.\nWhat was the most rewarding part of this photo?\nThe most rewarding part of this photo was capturing the moment.\nWhat was the most surprising part of this photo?\nThe most surprising part of this photo was how well the man riding the bicycle blended into the background.",
+      "refs": [
+        "A man on a bicycle riding next to a train",
+        "A person is riding a bicycle but there is a train in the background.",
+        "a red and white train and a man riding a bicycle",
+        "a guy that is riding his bike next to a train",
+        "A man riding a bike past a train traveling along tracks."
+      ]
+    },
+    {
+      "sample_idx": 3,
+      "coco_id": 384213,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000384213.jpg",
+      "img_file": "sample_003_coco384213.jpg",
+      "generated": "The kitchen in the cabin at the end of the road.",
+      "refs": [
+        "A kitchen is shown with a variety of items on the counters.",
+        "A kitchen has the windows open and plaid curtains.",
+        "A kitchen with two windows and two metal sinks.",
+        "An older kitchen with cluttered counter tops but empty sink.",
+        "Glasses and bottles are placed near a kitchen sink."
+      ]
+    },
+    {
+      "sample_idx": 4,
+      "coco_id": 386164,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000386164.jpg",
+      "img_file": "sample_004_coco386164.jpg",
+      "generated": "This is a collection of wooden spoons and other kitchen utensils.\nKeywords\nWooden spoons, kitchen utensils, wooden kitchen utensils, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons, wooden spoons,",
+      "refs": [
+        "A wooden ball on top of a wooden stick.",
+        "The table is full of wooden spoons and utensils.",
+        "A wood table holding an assortment of wood cooking utensils.",
+        "A selection of wooden kitchen tools on a counter.",
+        "Wooden spoons are lined up on a table"
+      ]
+    },
+    {
+      "sample_idx": 5,
+      "coco_id": 223648,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000223648.jpg",
+      "img_file": "sample_005_coco223648.jpg",
+      "generated": "The image shows a table with a collection of wooden spoons and other kitchen utensils.",
+      "refs": [
+        "Multiple wooden spoons are shown on a table top.",
+        "A table surrounded by chairs and filled with cooking utensils.",
+        "Wooden spoons laid out across a kitchen table.",
+        "Wooden spoons and forks are all over a table.",
+        "A table and chairs with wooden kitchen tools on top."
+      ]
+    },
+    {
+      "sample_idx": 6,
+      "coco_id": 403385,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000403385.jpg",
+      "img_file": "sample_006_coco403385.jpg",
+      "generated": "This is a bathroom in a hotel in the city of Kolkata, India.",
+      "refs": [
+        "A bathroom that has a broken wall in the shower.",
+        "A bathroom looks clean but is missing tile at the shower stall.",
+        "A view of a bathroom that needs to be fixed up.",
+        "a shower toilet and sink in a basement bathroom",
+        "A very big whit rest room with a shabby looking shower."
+      ]
+    },
+    {
+      "sample_idx": 7,
+      "coco_id": 294832,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000294832.jpg",
+      "img_file": "sample_007_coco294832.jpg",
+      "generated": "A bathroom with a shower and a toilet.\nTitle\nBathroom\nDescription\nA bathroom with a shower and a toilet.\nTags\nbathroom, shower, toilet\nCategories\nHome & Garden\nUploaded\n2018-01-11\nWriters\nWriter\nKeywords\nbathroom, shower, toilet\nRights\nNo known restrictions\nEmbed\nCopy and paste this HTML to include this image in your website or blog: <a href=\"https://www.loc.gov/item/2018641001/\">https://www.loc.gov/item/201",
+      "refs": [
+        "A bathroom with an enclosed shower next to a sink and a toilet.",
+        "A clean, spacious bathroom with a large shower stall.",
+        "There are a toilet, a sink, and a shower stall in a large bathroom.",
+        "A bathroom featuring a walk in shower, mirror, sink and toilet.",
+        "Bathroom with a shower, sink, and toilet in it. "
+      ]
+    },
+    {
+      "sample_idx": 8,
+      "coco_id": 462565,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000462565.jpg",
+      "img_file": "sample_008_coco462565.jpg",
+      "generated": "The bike lane on 14th Street in Manhattan.",
+      "refs": [
+        "people on bicycles ride down a busy street ",
+        "A group of people are riding bikes down the street in a bike lane",
+        "bike riders passing Burger King in city street",
+        "A group of bicyclists are riding in the bike lane.",
+        "Bicyclists on a city street, most not using the bike lane"
+      ]
+    },
+    {
+      "sample_idx": 9,
+      "coco_id": 436141,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000436141.jpg",
+      "img_file": "sample_009_coco436141.jpg",
+      "generated": "The bathroom in the cabin of the cruise ship.",
+      "refs": [
+        "The bathroom is clean and ready to be used. ",
+        "a small bathroom with a sink and a toilet.",
+        "A toilet, sink and mirror in the bathroom",
+        "Doorway view into bathroom with a sink and toilet.",
+        "A white toilet sitting next to a sink."
+      ]
+    },
+    {
+      "sample_idx": 10,
+      "coco_id": 192440,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000192440.jpg",
+      "img_file": "sample_010_coco192440.jpg",
+      "generated": "This is a bathroom with a wooden shelf with baskets on it.\nKeywords\nbathroom, basket, shelf, wooden, toilet, sink, mirror, towel, soap, shampoo, conditioner, shower gel, toothbrush, toothpaste, toilet paper, tissue, hand towel, bath towel, shower cap, shower curtain, shower caddy, shower head, shower gel, shower gel dispenser, shower gel bottle, shower gel pump, shower gel pump dispenser, shower gel pump bottle, shower gel pump bottle dispenser, shower gel pump bottle pump, shower gel pump bottle pump dispenser, shower gel pump bottle pump dispenser pump, shower gel pump bottle pump dispenser",
+      "refs": [
+        "A clean bathroom is seen in this image.",
+        "A bathroom with a white toilet and large shelf full of stuff.",
+        "some shelves filled with a bunch of different items in the bathroom\n",
+        "A shelving unit is between a toilet and a bathroom sink. ",
+        "A shelf with hygiene products in a bathroom.\n"
+      ]
+    },
+    {
+      "sample_idx": 11,
+      "coco_id": 1146,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000001146.jpg",
+      "img_file": "sample_011_coco1146.jpg",
+      "generated": "A young man in a black shirt and tie smiles at the camera.\nKeywords\nyoung man, black shirt, tie, smiling, glasses, window, light, indoors, office, business, professional, formal, corporate, suit, fashion, style, handsome, confident, happy, cheerful, positive, successful, career, job, work, employee, worker, executive, manager, leader, boss, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, bossy, boss",
+      "refs": [
+        "A young man wearing black attire and a flowered tie is standing and smiling.",
+        "A man with glasses and his eyes closed dressed in a black shirt and a necktie.",
+        "A man in a green tie with his eyes closed.",
+        "Smiling man wearing black shirt and pale green tie.",
+        "A person that is dressed up very nicely."
+      ]
+    },
+    {
+      "sample_idx": 12,
+      "coco_id": 559665,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000559665.jpg",
+      "img_file": "sample_012_coco559665.jpg",
+      "generated": "A man and his wife ride their motorcycle down the road.\nKeywords\nmotorcycle, motorcycle rider, motorcycle riders, motorcycle riding, motorcycle ride, motorcycle rides, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the road, motorcycle riding down the",
+      "refs": [
+        "Black and white photograph of two men on motorcycles.",
+        "Two people riding a motorcycle with hats and backpack down a street.",
+        "Two men are at an intersection on motorcycles.",
+        "The man are driving side by side on their motorcycles. ",
+        "Two men on motorcycles at a stop light"
+      ]
+    },
+    {
+      "sample_idx": 13,
+      "coco_id": 394240,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000394240.jpg",
+      "img_file": "sample_013_coco394240.jpg",
+      "generated": "The narrow streets of the old city of Varanasi are lined with small shops and houses.",
+      "refs": [
+        "A row of motorcycles parked in front of a building.",
+        "A bunch of motorcycles parked on the side of the road",
+        "a back ally neighborhood with motor bikes in a row",
+        "A number of motorbikes parked on an alley",
+        "a bunch of motorcycles parked along the side of the street "
+      ]
+    },
+    {
+      "sample_idx": 14,
+      "coco_id": 491497,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000491497.jpg",
+      "img_file": "sample_014_coco491497.jpg",
+      "generated": "The image shows a white chair with a white pillow on it. The chair is in a room with a white wall and a white curtain. The chair is in front of a white table with a white lamp on it. The chair is in front of a white window with a white curtain. The chair is in front of a white door with a white curtain. The chair is in front of a white wall with a white curtain. The chair is in front of a white wall with a white curtain. The chair is in front of a white wall with a white curtain. The chair is in front of a white wall with a white curtain",
+      "refs": [
+        "A fluffy white chair that faces away fro a television.",
+        "A pillow covered reading chair in the corner of the living room",
+        "The living room is empty with the television on. ",
+        "White ornate seat in nicely decorated room with television.",
+        "A white chair, books and shelves and a tv on in this room."
+      ]
+    },
+    {
+      "sample_idx": 15,
+      "coco_id": 184791,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000184791.jpg",
+      "img_file": "sample_015_coco184791.jpg",
+      "generated": "The painting shows a still life of a jug, a candle, and some oranges.\nKeywords\nStill life, jug, candle, oranges, painting, art, oil painting, still life painting, still life art, still life oil painting, still life painting art, still life art painting, still life oil painting art, still life painting art oil, still life art painting oil, still life oil painting art painting, still life painting art oil painting, still life art painting oil painting, still life oil painting art painting oil, still life painting art oil painting art, still life art painting oil painting art, still life oil painting art",
+      "refs": [
+        "A painting of a table with fruit on top of it.",
+        "Painting of oranges, a bowl, candle, and a pitcher",
+        "a painting of fruit and a candle with a vase",
+        "A painting of a candlestick holder with a candle, several pieces of fruit and a vase, with a gold frame around the painting.",
+        "A painting that has a gold frame on it."
+      ]
+    },
+    {
+      "sample_idx": 16,
+      "coco_id": 579664,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000579664.jpg",
+      "img_file": "sample_016_coco579664.jpg",
+      "generated": "Banana is a fruit that is grown in many parts of the world. It is a tropical fruit that is rich in vitamins and minerals.",
+      "refs": [
+        "Vegetables are displayed in a wooden barrel outdoors.",
+        "A bunch of bananas are sitting on the stand.",
+        "The cart has bananas or plantains piled on it. ",
+        "a box of green bananas and a box of ripe bananas ",
+        "A large number of green and yellow bananas in wooden containers."
+      ]
+    },
+    {
+      "sample_idx": 17,
+      "coco_id": 550529,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000550529.jpg",
+      "img_file": "sample_017_coco550529.jpg",
+      "generated": "This is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis is a picture of a motorcycle.\nThis",
+      "refs": [
+        "A motorbike sitting in front of a wine display case",
+        "A motor bike and some wine in a room.",
+        "A dirt bike sitting on a counter by some wine bottles.",
+        "a motorcycle standing in front a winery ",
+        "A bike sits among bottles of wine on a shelf. "
+      ]
+    },
+    {
+      "sample_idx": 18,
+      "coco_id": 348881,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000348881.jpg",
+      "img_file": "sample_018_coco348881.jpg",
+      "generated": "A passenger boarding a plane at the airport.",
+      "refs": [
+        "A large jetliner sitting on top of an airport runway.",
+        "Airline employees by an aircraft parked at the gate",
+        "The plane is parked at the gate at the airport terminal.",
+        "View from gate of jet connected to jet way for passengers to board or deplane",
+        "A large white airplane and a person on a lot."
+      ]
+    },
+    {
+      "sample_idx": 19,
+      "coco_id": 560623,
+      "url": "http://images.cocodataset.org/val2014/COCO_val2014_000000560623.jpg",
+      "img_file": "sample_019_coco560623.jpg",
+      "generated": "The image shows a view of the airport from the window of a plane. The airport is covered in a thick layer of fog, and the planes are parked on the tarmac. The image is taken from a high angle, and the planes are visible in the foreground. The image is taken from a high angle, and the planes are visible in the foreground. The image is taken from a high angle, and the planes are visible in the foreground. The image is taken from a high angle, and the planes are visible in the foreground. The image is taken from a high angle, and the planes are visible in the foreground. The image",
+      "refs": [
+        "An airport filled with planes sitting on tarmacs.",
+        "The view of runway from behind the windows of airport.",
+        "a truck driving towards some planes parked on the runway",
+        "Planes on a wet tarmac unloading at arrival gates.",
+        "Window view from the inside of airplanes, baggage carrier and tarmac. "
+      ]
+    }
+  ]
+}
